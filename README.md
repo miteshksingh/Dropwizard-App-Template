@@ -3,4 +3,4 @@ Sample Dropwizard App
 
 1. Open the project in an editor
 2. Have Java installed on your computer
-3. Run a dropwizard file. 
+3. Run a dropwizard configuration - java *********.jar server config-file 
